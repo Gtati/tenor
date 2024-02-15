@@ -1,0 +1,20 @@
+*{
+    padding: 0;
+    margin: 0;
+}
+
+.container1{
+    display: flex;
+    justify-content: space-between;
+    margin-left:9rem ;
+    margin-right: 9rem;
+}
+
+.container1 > .title1{
+font-size: 2rem;
+
+}
+.container1 > .buttons1{
+    margin-left: 5rem ;
+    
+}
